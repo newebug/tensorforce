@@ -253,3 +253,5 @@ If you use TensorForce in your academic research, we would be grateful if you co
     year = {2017}
 }
 ```
+
+[基于TensorFlow打造强化学习API：TensorForce是怎样炼成的？](https://mp.weixin.qq.com/s/5wy6yqaW_9pMBhgw8qDdOQ)
